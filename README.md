@@ -1,1 +1,1 @@
-# algo_ds
+# algo_ds for the begineers
